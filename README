@@ -1,4 +1,7 @@
 This is a small mandelbrot java applet I did yeaaaars ago.
+You may view it at:
+http://aureliengeron.free.fr/fractales/
+
 I actually lost the source code, so I decompiled the class files using mocha.
 This explains why the code looks odd and has no comments.  You may also find weird locale variable names.
-For some reason the buttons labels are not displayed when I run this applet on Linux... Write once, debug everywhere!
+For some reason the buttons labels are not displayed when I run this applet on Linux... Well, it's Java: "write once, debug everywhere".
